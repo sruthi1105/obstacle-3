@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/juming jack.unity
+  isLoaded: 1
+  isActive: 1
